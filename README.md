@@ -27,3 +27,10 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+
+## Running the Site
+First open a new terminal in the project directory. Then type and execute the following command to install project dependencies:
+
+npm install
+
+You will need server to be able to run the website. In VS Code you can use the extension Live Preview or Live Server. Once the server is ran the index.html page should be the result in the web browser.
